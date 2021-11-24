@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loader Remocon</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="btup_face">UP</string>
+    <string name="btdown_face">DOWN</string>
+    <string name="btrup_face">巻上げ</string>
+    <string name="btrdown_face">巻戻し</string>
+</resources>
